@@ -1,0 +1,14 @@
+Ce programme est compos‚ de:
+
+main.asm (le module principal)
+
+Les autres modules se trouvent dans INCLUDE.
+
+Le repertoire OBJ contient des fichiers … LINKER. Ils ne doivent
+en AUCUN CAS ˆtre effac‚s !
+
+Pour lancer l'assemblage, il suffit de lancer
+
+EXEC[.BAT]
+
+

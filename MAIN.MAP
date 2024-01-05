@@ -1,0 +1,11 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 0767FH 07680H _TEXT              CODE
+ 07680H 122DFH 0AC60H _DATA              DATA
+ 122E0H 123DFH 00100H STACK              STACK
+ 123E0H 1933FH 06F60H _EPIC_FONT         DATA3
+ 19340H 1CDFFH 03AC0H _LOGO_TITRE        DATA4
+
+Program entry point at 0000:0000
+
