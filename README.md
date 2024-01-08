@@ -7,6 +7,10 @@ The content of the OBJ folder should not be deleted, these OBJ files contain ass
 
 What follows is a "markdownified" version of the original document we provided alongside the project.
 
+Here is what that looks like for the ones wondering (click on the image to see the video on youtube):
+
+[![ZBuffer House](https://img.youtube.com/vi/8XLqzGkGJGw/0.jpg)](https://www.youtube.com/watch?v=8XLqzGkGJGw)
+
 # Original documentation
 Projet en assembleur 80386: Simulation de système solaire
 
